@@ -10,7 +10,7 @@ Then wrote UserController where we use CRUD operations.
 
 ![image](https://user-images.githubusercontent.com/70862043/111705531-eb84a780-8851-11eb-8106-a1e4d150cd81.png)
 
-Then wrote LoadDatabase to configurate logs and databaseç
+Then wrote LoadDatabase to configurate logs and database.
 And interface of UserRepository.
 Lastly created an exception handling of "user not found" and wrote HTTPStatus to give a exception message in a different class(UserNotFoundAdvice.java).
 We've done with coding.
