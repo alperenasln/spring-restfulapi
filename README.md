@@ -47,4 +47,4 @@ Finally I deployed my code and get this link : https://spring-restfulapi-demo.he
 
 ## Resources
 I usually used REST tutorial of Spring
-from :https://spring.io/guides/tutorials/rest/
+from: https://spring.io/guides/tutorials/rest/
