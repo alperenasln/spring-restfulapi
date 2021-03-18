@@ -10,3 +10,28 @@ Then wrote UserController where we use CRUD operations.
 
 ![image](https://user-images.githubusercontent.com/70862043/111705531-eb84a780-8851-11eb-8106-a1e4d150cd81.png)
 
+Then wrote LoadDatabase to configurate logs and databaseç
+And interface of UserRepository.
+Lastly created an exception handling of "user not found" and wrote HTTPStatus to give a exception message in a different class(UserNotFoundAdvice.java).
+We've done with coding.
+Run this code on to start server and check from http://localhost:8080/users/
+## 4) Testing on Postman
+Created a collection then;
+used GET request on http://localhost:8080/users/ URL.
+used PUT request to add new user:
+
+![put](https://user-images.githubusercontent.com/70862043/111706456-63070680-8853-11eb-8f61-4b41cb3473ce.png)
+
+used POST request to update user:
+
+![post](https://user-images.githubusercontent.com/70862043/111706496-73b77c80-8853-11eb-9e39-095e7378c157.png)
+
+used DELETE request to delete user 
+
+![delete](https://user-images.githubusercontent.com/70862043/111706537-82059880-8853-11eb-9541-bbf4240b8c78.png)
+
+used GET request to check users.
+
+![getafterdelete](https://user-images.githubusercontent.com/70862043/111706579-95b0ff00-8853-11eb-9aee-d5ed19855ae3.png)
+
+
