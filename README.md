@@ -39,4 +39,12 @@ Uploaded my whole Java code to Github.
 By https://www.youtube.com/watch?v=nHk53YnrE5k
 
 ## 6) Deploying Heroku
+I connected my Heroku account to Github.
+Then deploy manually and choose main branch.
+But I got error with Java version.
+So I went back to my code and changed java version from 15 to 1.8 on "pom.xml".
+Finally I deployed my code and get this link : https://spring-restfulapi-demo.herokuapp.com/users
 
+## Resources
+I usually used REST tutorial of Spring
+from :https://spring.io/guides/tutorials/rest/
