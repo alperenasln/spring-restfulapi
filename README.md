@@ -34,4 +34,9 @@ used GET request to check users.
 
 ![getafterdelete](https://user-images.githubusercontent.com/70862043/111706579-95b0ff00-8853-11eb-9aee-d5ed19855ae3.png)
 
+## 5) Uploading code on Github
+Uploaded my whole Java code to Github.
+By https://www.youtube.com/watch?v=nHk53YnrE5k
+
+## 6) Deploying Heroku
 
