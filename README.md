@@ -7,5 +7,6 @@ I imported JAR file as Existing Maven Project and created new project.
 ## 3) Designing RESTFUL API
 I started create my object USER firstly.Initialized private ID and public name .Then overrided equals,hash,toString methods.
 Then wrote UserController where we use CRUD operations.
+
 ![image](https://user-images.githubusercontent.com/70862043/111705531-eb84a780-8851-11eb-8106-a1e4d150cd81.png)
 
